@@ -1,0 +1,42 @@
+#LogoLanche {
+    height: 312px;
+    margin-left: 85px;
+    background-color: #cacd07;
+}
+
+header {
+    background-color: #cacd07;
+    padding: 0px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: auto;
+}
+
+nav {
+    position: absolute;
+    top: 222px;
+    right: 430px;
+}
+
+nav li {
+    display: inline-flex;
+    margin: -1px 1px -1px 61px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+#Macbacon{
+    margin-left: -46px;
+    margin-top: -32px;
+    height: 232px;
+
+}
