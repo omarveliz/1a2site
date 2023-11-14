@@ -43,3 +43,15 @@ nav a {
 main { 
     background-color: #56d6e2;
 }
+
+h1 {
+    height: 300px;
+    margin-top: 0px;
+    color: #0b0a0a;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+li{
+color: red;
+}
