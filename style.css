@@ -47,9 +47,9 @@ main {
 }
 
 h1{
-    height: 300px;
-    margin-top: 0px;
+    margin-top: 40px;
     color: #0b0a0a;
     text-transform: uppercase;
     font-family: sans-serif;
+    margin-bottom: -63px;
 }
