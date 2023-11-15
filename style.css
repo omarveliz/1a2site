@@ -1,4 +1,4 @@
-#JogoFF {
+#JogosFF {
     height: 312px;
     margin-left: 85px;
     background-color: #444444;
@@ -6,7 +6,7 @@
 
 header {
     background: linear-gradient(to bottom, #2080c2, #5c7688);
-    padding: 9px 471px;
+    padding: 9px 0; /* Updated padding */
 }
 
 .caixa {
@@ -18,12 +18,12 @@ header {
 nav {
     position: absolute;
     top: 181px;
-    right: 360px;
+    right: 0; /* Updated right */
 }
 
 nav li {
-    display: inline-flex;
-    margin: -1px 1px -1px 61px;
+    display: inline-block; /* Updated display */
+    margin-right: 61px; /* Updated margin */
 }
 
 nav a {
@@ -34,22 +34,16 @@ nav a {
     text-decoration: none;
 }
 
-#Macbacon{
-    margin-left: -46px;
-    margin-top: -32px;
-    height: 232px;
-
-}
-main { 
+main {
     background-color: #5c7688;
     height: 300px;
     margin-top: 0px;
 }
 
-h1{
+h1 {
     margin-top: 40px;
     color: #0b0a0a;
     text-transform: uppercase;
     font-family: sans-serif;
-    margin-bottom: -63px;
+    margin-bottom: 0; /* Removed negative margin */
 }
