@@ -74,10 +74,10 @@ p {
 }
 
 #m4a1 {
-    height: 130px;
-    margin-bottom: -130px;
+    height: 70px;
+    margin-bottom: -80px;
     transform: rotate(27deg);
-    margin-left: -232px;
+    margin-left: -270px;
 }
 
 footer {
