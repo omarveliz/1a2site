@@ -65,3 +65,13 @@ h1 {
         height: 820px;
         margin-left: 202px;
 }
+
+p{
+    text-transform: uppercase;
+    font-size: 36px;
+    color: #fff;
+    text-align: center;
+    margin-left: 751px;
+    font-weight: 700;
+    margin-right: 775px;
+}
