@@ -110,6 +110,10 @@ footer {
     margin-top: -111px;
 }
 #mundial2019{
-     height: 99px;
-
+    height: 352px;
+    width: 675px;
+    margin-bottom: -432px;
+    margin-left: -692px;
+    border-radius: 34px;
+    box-shadow: 10px 10px 10px rgb(17 0 0 / 41%);
 }
