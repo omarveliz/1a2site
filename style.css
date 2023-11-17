@@ -81,21 +81,16 @@ p {
 }
 
 footer {
-    background-color: #333; /* Alterei a cor para um tom escuro */
+    background-color: #333;
     color: #fff; /* Cor do texto no rodapé */
     padding: 20px;
-    text-align: center;
 }
 
 .footer {
     max-width: 1200px;
     margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .footer a {
-    color: #fff; /* Cor dos links no rodapé */
     text-decoration: none;
 }
