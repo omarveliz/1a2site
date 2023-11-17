@@ -54,6 +54,7 @@ h1 {
     width: 457px;
     border-radius: 43px;
     margin-left: -143px;
+    box-shadow: 10px 10px 10px rgb(17 0 0 / 41%);
 }
 
 #JogosFF {
@@ -64,6 +65,8 @@ h1 {
     height: 274px;
     margin-left: 47px;
     border-radius: 43px;
+    box-shadow: 10px 10px 10px rgb(17 0 0 / 41%);
+
 }
 
 p {
@@ -109,6 +112,7 @@ footer {
     margin-bottom: -58px;
     margin-top: -111px;
 }
+
 #mundial2019{
     height: 352px;
     width: 675px;
