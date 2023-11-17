@@ -52,6 +52,7 @@ h1 {
 #FreeFire {
     height: 270px;
     width: 457px;
+    border-radius: 43px;
 }
 
 #JogosFF {
@@ -61,6 +62,7 @@ h1 {
 #mitodoscapa{
     height: 274px;
     margin-left: 47px;
+    border-radius: 43px;
 }
 
 
