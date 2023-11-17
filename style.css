@@ -11,10 +11,6 @@ body {
     padding: 20px;
 }
 
-#JogosFF {
-
-}
-
 header {
     background: linear-gradient(to bottom, #2080c2, #5c7688);
     padding: 20px 0;
@@ -26,6 +22,7 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    font-size: 52px;
 }
 
 nav li {
@@ -46,13 +43,19 @@ main {
 }
 
 h1 {
-    color: #fff;
+    color: #fff972;
     margin-top: 20px;
+    font-size: 54px;
 }
+
 
 #FreeFire {
     height: 825px;
     left: 32px;
     margin-left: -397px;
     width: 1433px;
+}
+
+#JogosFF {
+    height: 321px;
 }
