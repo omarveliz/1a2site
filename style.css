@@ -45,26 +45,11 @@ main {
     text-align: center;
 }
 
-.item-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.item-list li {
-    max-width: 600px;
-    margin: 0 auto 40px;
-}
-
 h1 {
     color: #fff;
     margin-top: 20px;
 }
 
-p {
-    color: #fff;
-    font-size: 16px;
-}
 #FreeFire {
     height: 825px;
     left: 32px;
